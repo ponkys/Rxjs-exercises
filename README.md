@@ -1,2 +1,2 @@
 # Rxjs-exercises
-Exercises to understand Rxjs module included on Angular 2
+Exercises to understand Rxjs module included in Angular 2
