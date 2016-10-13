@@ -3,18 +3,18 @@ Exercises to understand Rxjs module included in Angular 2
 
 Methods tested:
 
-valueChanges
-debounceTime
-subscribe
-fromArray
-map
-flatMap
-range
-empty
-of
-forkJoin
-delay
-throw
-retry
-catch
+valueChanges<br>
+debounceTime<br>
+subscribe<br>
+fromArray<br>
+map<br>
+flatMap<br>
+range<br>
+empty<br>
+of<br>
+forkJoin<br>
+delay<br>
+throw<br>
+retry<br>
+catch<br>
 timeOut
